@@ -1,0 +1,16 @@
+{
+    "name": "basicphp/http",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "BasicPHP\\Http\\": "framework/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jarkó Richárd",
+            "email": "jarkoricsi16@gmail.com"
+        }
+    ],
+    "require": {}
+}
