@@ -1,9 +1,9 @@
 {
-    "name": "basicphp/http",
+    "name": "sosoricsi/http",
     "type": "library",
     "autoload": {
         "psr-4": {
-            "BasicPHP\\Http\\": "framework/"
+            "SosoRicsi\\Http\\": "framework/"
         }
     },
     "authors": [

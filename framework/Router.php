@@ -1,9 +1,9 @@
 <?php declare(strict_types=1);
 
-namespace BasicPHP\Http;
+namespace SosoRicsi\Http;
 
-use BasicPHP\Http\Request;
-use BasicPHP\Http\Response;
+use SosoRicsi\Http\Request;
+use SosoRicsi\Http\Response;
 
 class Router
 {
